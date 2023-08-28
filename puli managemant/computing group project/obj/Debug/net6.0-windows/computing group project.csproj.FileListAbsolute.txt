@@ -1,0 +1,78 @@
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\bin\Debug\net6.0-windows\computing group project.exe
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\bin\Debug\net6.0-windows\computing group project.deps.json
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\bin\Debug\net6.0-windows\computing group project.runtimeconfig.json
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\bin\Debug\net6.0-windows\computing group project.dll
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\bin\Debug\net6.0-windows\computing group project.pdb
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing group project.csproj.AssemblyReference.cache
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing_group_project.Form1.resources
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing group project.csproj.GenerateResource.cache
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing group project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing group project.AssemblyInfoInputs.cache
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing group project.AssemblyInfo.cs
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing group project.csproj.CoreCompileInputs.cache
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing group project.dll
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\refint\computing group project.dll
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing group project.pdb
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing group project.genruntimeconfig.cache
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\ref\computing group project.dll
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing_group_project.addChire.resources
+C:\Users\Dineth Chathurya\source\repos\computing group project\computing group project\obj\Debug\net6.0-windows\computing_group_project.Login.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\bin\Debug\net6.0-windows\computing group project.exe
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\bin\Debug\net6.0-windows\computing group project.deps.json
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\bin\Debug\net6.0-windows\computing group project.runtimeconfig.json
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\bin\Debug\net6.0-windows\computing group project.dll
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\bin\Debug\net6.0-windows\computing group project.pdb
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing group project.csproj.AssemblyReference.cache
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.addChire.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.addUser.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.Cashier.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.deleteChire.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.deleteOrder.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.Form1.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.Login.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.order.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.register.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing group project.csproj.GenerateResource.cache
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing group project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing group project.AssemblyInfoInputs.cache
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing group project.AssemblyInfo.cs
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing group project.csproj.CoreCompileInputs.cache
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing group project.dll
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\refint\computing group project.dll
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing group project.pdb
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing group project.genruntimeconfig.cache
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\ref\computing group project.dll
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.admin.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.adminorder.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.adminstock.resources
+C:\Users\AKARSHA\OneDrive\ALGO\Minu Chairs\computing group project\obj\Debug\net6.0-windows\computing_group_project.Properties.Resources.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\bin\Debug\net6.0-windows\computing group project.exe
+C:\Users\Asus\Desktop\puli managemant\computing group project\bin\Debug\net6.0-windows\computing group project.deps.json
+C:\Users\Asus\Desktop\puli managemant\computing group project\bin\Debug\net6.0-windows\computing group project.runtimeconfig.json
+C:\Users\Asus\Desktop\puli managemant\computing group project\bin\Debug\net6.0-windows\computing group project.dll
+C:\Users\Asus\Desktop\puli managemant\computing group project\bin\Debug\net6.0-windows\computing group project.pdb
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing group project.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.addChire.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.addUser.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.admin.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.adminorder.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.adminstock.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.Cashier.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.deleteChire.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.deleteOrder.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.Form1.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.Login.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.order.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.Properties.Resources.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.register.resources
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing group project.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing group project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing group project.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing group project.AssemblyInfo.cs
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing group project.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing group project.dll
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\refint\computing group project.dll
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing group project.pdb
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing group project.genruntimeconfig.cache
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\ref\computing group project.dll
+C:\Users\Asus\Desktop\puli managemant\computing group project\obj\Debug\net6.0-windows\computing_group_project.test.resources
